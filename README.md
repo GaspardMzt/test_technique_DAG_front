@@ -1,3 +1,36 @@
+# TEST TECHNIQUE DAG
+
+NB : Les deux exercices ne sont pas lié
+N’hésite surtout pas à poser une question, si tu ne comprend pas quelque chose
+thomas@dag-system.com
+Bonne chance.
+
+## FRONT
+
+Afficher la liste des coureurs classés par temps (leur nom, temps et place doivent apparaître). Le design importe peu.
+Objectif:
+
+- Afficher sous forme de liste le classement;
+- Trier les résultats par temps.
+
+Bonus: Typescript
+
+## BACK
+
+TECHNO: NODEJS (EXPRESS)
+
+Créer une application qui possède des courses ainsi qu’une base de données SQL (mySQL ou SqLite)
+
+Créer deux tables « course » et « application »
+Une course est rattachée à une application et doit avoir au minimum un nom et une date de création.
+Une application est définie au minimum par un nom et un numéro de version.
+
+Objectif:
+⁃ Créer une application
+⁃ Créer des courses liées à une application;
+⁃ Récupérer une application et ses courses.
+Bonus: TypeScript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
