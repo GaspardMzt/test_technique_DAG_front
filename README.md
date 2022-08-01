@@ -1,9 +1,6 @@
 # TEST TECHNIQUE DAG
 
-NB : Les deux exercices ne sont pas lié
-N’hésite surtout pas à poser une question, si tu ne comprend pas quelque chose
-thomas@dag-system.com
-Bonne chance.
+NB : front et back : les deux exercices ne sont pas lié
 
 ## FRONT
 
